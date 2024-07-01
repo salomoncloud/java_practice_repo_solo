@@ -11,6 +11,6 @@ class Main { // Define the Main class
         String name = scanner.nextLine();
 
         // Output a greeting to the user
-        System.out.println("Hello " + name);
+        System.out.println("Hello " + name + "!");
     }
 }
