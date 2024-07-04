@@ -1,6 +1,6 @@
 package structure;
 
-public class Account {
+public class account {
     String owner;
     double balance;
     double minimumBalance;
