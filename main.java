@@ -1,3 +1,4 @@
+/*
 import java.util.Scanner; // Import the Scanner class from the java.util package
 
 class Main { // Define the Main class
@@ -12,5 +13,11 @@ class Main { // Define the Main class
 
         // Output a greeting to the user
         System.out.println("Hello " + name + "!");
+    }
+}
+*/
+public class Main {
+    public static void main(String[] args) {
+        Account account1 = new Account();
     }
 }
